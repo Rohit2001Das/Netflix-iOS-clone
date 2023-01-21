@@ -14,8 +14,9 @@ And lastly for persistance , I have used coredata , where the downloaded movies/
 <p align="center">
     <img src= "display images/1.png" width =300 height =600>
     <img src= "display images/2.png" width =300 height =600>
-     <img src= "display images/3.png" width =300 height =600>
-      <img src= "display images/4.png" width =300 height =600>
-       <img src= "display images/5.png" width =300 height =600>
+    <img src= "display images/3.png" width =300 height =600>
+    <img src= "display images/4.png" width =300 height =600>
+    <img src= "display images/5.png" width =300 height =600>
+    <img src= "display images/6.png" width =300 height =600>
   
 </p>
